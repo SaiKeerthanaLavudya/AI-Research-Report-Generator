@@ -69,3 +69,5 @@ You can download the AI-generated report in a professional PDF format.
 
 ## 🤝 Contributing
 Pull requests are welcome! If you’d like to add new features, improve the UI, or optimize performance, feel free to contribute.
+
+🚀 Simplify research with AI-driven automation! Try it now! 🎯
