@@ -30,6 +30,11 @@ The AI Research Report Generator is a smart, AI-powered tool that helps users ge
 
 🔐 dotenv – Keeps API credentials secure.
 
+## Project 
+
+![Screenshot 1](Images/Screenshot%202025-04-03%20230757.png)
+
+![Screenshot 2](Images/Screenshot%202025-04-03%20230811.png)
 
 
 ## How to Run
