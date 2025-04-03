@@ -2,31 +2,33 @@
 The AI Research Report Generator is a smart, AI-powered tool that helps users generate clean, structured research reports on any topic. It fetches real-world articles, summarizes key insights using AI, and allows users to download a professional PDF report—all with a simple click.
 ## Features
 
-✅ Live Web Scraping – Fetches the latest research articles and news on your topic.
+🔍 Real-Time Web Scraping – Fetches the latest articles on your chosen topic.
 
-✅ AI Summarization (Gemini AI) – Uses Google Gemini to generate concise and structured summaries.
+🤖 AI-Powered Summarization – Uses Google Gemini AI to distill key insights.
 
-✅ PDF Report Generation – Converts AI-generated summaries into a downloadable PDF.
+📄 Instant PDF Report – Generates a well-structured report in a downloadable format.
 
-✅ Streamlit-Based UI – A fast, interactive, and visually appealing frontend.
+🎨 Modern UI – Built with Streamlit for a fast, user-friendly experience.
 
-✅ Secure API Key Handling – Uses .env file for safe Gemini API key management. 
+🔑 Secure API Management – Stores sensitive API keys safely in a .env file.
+
+ 
 
 ## Tech Stack
 
-Python – Core programming language.
+💻 Python – The powerhouse behind the app.
 
-Streamlit – For building an interactive and modern UI.
+📊 Streamlit – Creates an intuitive web-based interface.
 
-Google Gemini API – For AI-powered text summarization.
+🧠 Google Gemini API – Summarizes text with AI.
 
-duckduckgo-search – For retrieving relevant articles.
+🌍 duckduckgo-search – Retrieves relevant articles.
 
-newspaper3k – For web scraping and article extraction.
+📰 newspaper3k – Extracts content from articles.
 
-fpdf – For generating high-quality PDF reports.
+📄 fpdf – Converts summaries into a polished PDF report.
 
-dotenv – For secure API key management.
+🔐 dotenv – Keeps API credentials secure.
 
 
 
@@ -34,7 +36,7 @@ dotenv – For secure API key management.
 
 1. Clone this repository:
 ```
-git clone https://github.com/RamcharanSinghRamavath/AI-Research-Report-Generator.git
+git clone https://github.com/SaiKeerthanaLavudya/AI-Research-Report-Generator.git
 cd AI-Research-Report-Generator
 ```
 
