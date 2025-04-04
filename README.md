@@ -35,7 +35,8 @@ The AI Research Report Generator is a smart, AI-powered tool that helps users ge
 ![Screenshot 1](Images/Screenshot%202025-04-03%20230757.png)
 
 ![Screenshot 2](Images/Screenshot%202025-04-03%20230811.png)
-
+## LIVE
+[Access the AI Research Report Generator](https://ai-research-report-generator.onrender.com)
 
 ## How to Run
 
