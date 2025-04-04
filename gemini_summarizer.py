@@ -1,7 +1,7 @@
 import google.generativeai as genai
 
 # Configure the API (Make sure to replace with your actual key)
-genai.configure(api_key="AIzaSyDcPvh_-NnVeFelKLte5e2JjZv-ZtAjzVc")  # Replace with actual API key
+genai.configure(api_key="Your_API_key")  # Replace with actual API key
 
 def generate_summary(text):
     """Generate a summary using Gemini AI"""
